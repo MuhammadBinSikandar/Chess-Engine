@@ -1,0 +1,8 @@
+HEIGHT = 800
+WIDTH = 800
+
+ROWS = 8
+COLS = 8
+
+SQSIZE = HEIGHT // COLS
+
